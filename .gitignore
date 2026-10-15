@@ -2,7 +2,7 @@
 .env
 .env.*
 !.env.example
-api.py
+/api.py
 .seed
 .key.enc
 *.enc
